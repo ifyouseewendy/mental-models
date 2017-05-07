@@ -5,4 +5,5 @@
 * [Occam's Razor](occams-razor.md)
 * [Cognitive Bias](cognitive-bias.md)
 * [Arguing from First Principles](arguing-from-first-principles.md)
+* [Proximate vs Distal Cause](proximate-vs-distal-cause.md)
 

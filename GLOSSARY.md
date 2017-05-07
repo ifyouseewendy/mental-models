@@ -26,7 +26,7 @@ Zebra is the American medical slang for arriving at an exotic medical diagnosis 
 
 > It is shorthand for the aphorism coined in the late 1940s by Dr. Theodore Woodward, professor at the University of Maryland School of Medicine, who instructed his medical interns: "When you hear hoofbeats, think of horses not zebras".\[2\] Since horses are common in Maryland while zebras are relatively rare, logically one could confidently guess that an animal making hoofbeats is probably a horse. By 1960, the aphorism was widely known in medical circles.\[3\]
 
-[https://www.wikiwand.com/en/Zebra\_\(medicine\](https://www.wikiwand.com/en/Zebra_%28medicine\)\)
+[https://www.wikiwand.com/en/Zebra\_\(medicine\](https://www.wikiwand.com/en/Zebra_%28medicine%29\)
 
 ## Discrimination
 
@@ -35,4 +35,12 @@ The practice of treating one person or group differently from another _in an unf
 ## Deviations
 
 A noticeable difference from what is expected or accepted.
+
+## Distal
+
+Situated away from the centre of the body or from the point of attachment; physical or social rather than sensory
+
+Opposite to proximal, which means situated nearer to the centre of the body or the point of attachment; sensory rather than physical or social.
+
+
 
