@@ -9,4 +9,6 @@
 * [Thought Experiment](thought-experiment.md)
 * [Systems Thinking](systems-thinking.md)
 * [Scenario Analysis](scenario-analysis.md)
+* [Power law](power-law.md)
+* [Normal Distribution](normal-distribution.md)
 

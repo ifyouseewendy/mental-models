@@ -42,5 +42,17 @@ Situated away from the centre of the body or from the point of attachment; physi
 
 Opposite to proximal, which means situated nearer to the centre of the body or the point of attachment; sensory rather than physical or social.
 
+## Concoct
+
+To invent a clever story, excuse, or plan, especially in order to deceive someone.
+
+## Diminishing
+
+To become smaller or less important
+
+### Marginal
+
+A marginal change or difference is too small to be important OPP significant
+
 
 
