@@ -1,4 +1,4 @@
-# Hanlon's Razor
+# [Hanlon's Razor](https://www.wikiwand.com/en/Hanlon's_razor)
 
 Never attribute to malice that which is adequately explained by stupidity.
 
@@ -16,13 +16,9 @@ It's also known as _Heinlein's Razor_
 
 > Never attribute to malice that which can be adequately explained by stupidity, but don't rule out malice.Gabriel Weinberg
 
-In Chinese
+In Chinese [汉隆的剃刀](#)
 
 > 在用愚蠢足以解释的情况下，请不要用恶意推测别人。
 
-**Reference**
 
-[Wikipedia](https://www.wikiwand.com/en/Hanlon's_razor)
-
-[汉隆的剃刀](https://www.wikiwand.com/zh-hans/汉隆的剃刀)
 
