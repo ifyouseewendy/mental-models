@@ -24,5 +24,5 @@ In Chinese
 
 [Wikipedia](https://www.wikiwand.com/en/Hanlon's_razor)
 
-[汉隆的剃刀](https://www.wikiwand.com/zh-hans/汉隆的剃刀) 
+[汉隆的剃刀](https://www.wikiwand.com/zh-hans/汉隆的剃刀)
 
