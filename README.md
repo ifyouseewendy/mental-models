@@ -1,10 +1,12 @@
-# My Awesome Book
+# Mental Models
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-
+Notes of learning mental models.
 
 
+
+**Reference** 
+
+[Mental Models I Find Repeatedly Useful - Gabriel Weinberg](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 
 
